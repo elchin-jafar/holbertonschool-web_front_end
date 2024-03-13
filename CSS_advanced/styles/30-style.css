@@ -318,7 +318,6 @@ a:active {
 .card-work .card-title a::after {
   content: "";
   position: absolute;
-  /* inset: 0; */
   left: 0;
   top: 0;
   left: 0;
