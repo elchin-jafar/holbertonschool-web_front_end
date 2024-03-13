@@ -359,6 +359,7 @@ h6 {
   display: block;
 }
 
+.social-link,
 .social-link svg {
   color: var(--text-color);
 }
